@@ -1,2 +1,2 @@
-# Stepik---Learn-Selenium-with-Python
-Представлена реализация практической части урока ["Автоматизация тестирования с помощью Selenium и Python"]https://stepik.org/course/575
+# Автоматизация тестирования с помощью Selenium и Python от Stepik
+Представлена реализация практической части урока ["Автоматизация тестирования с помощью Selenium и Python"](https://stepik.org/course/575)
